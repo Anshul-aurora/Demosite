@@ -86,6 +86,7 @@ p{
 }
 .mail{
   color: #DBF6E9;
+  text-decoration: none;
 }
 .mail:hover{
   color: #F6D167;
