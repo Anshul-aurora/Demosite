@@ -87,6 +87,9 @@ p{
 .mail{
   color: #DBF6E9;
 }
+.mail:hover{
+  color: #F6D167;
+}
 .contact-me{
   margin: 0 auto 0 auto;
   background-color: #184D47;
